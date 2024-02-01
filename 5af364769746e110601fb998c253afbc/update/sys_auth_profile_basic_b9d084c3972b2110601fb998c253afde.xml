@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>Basic</name>
+        <password>﷞﷟﷒bb53085497492110601fb998c253af38﷬﷔1﷬﷭UFg2qyjyAWbVX3lIzKA4Vw==TWCt5W4ZBSDvKl34bIv0NLQY-sIAtq-N﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 19:31:07</sys_created_on>
+        <sys_id>b9d084c3972b2110601fb998c253afde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Basic</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_b9d084c3972b2110601fb998c253afde</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 19:31:07</sys_updated_on>
+        <username>MZPSOSP1</username>
+    </sys_auth_profile_basic>
+</record_update>

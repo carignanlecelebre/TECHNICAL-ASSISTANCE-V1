@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Technical Assistance Version No Code - Workspace Search">3e28f3c7a786311076dc047d0385b66f</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 20:08:11</sys_created_on>
+        <sys_id>fa28f3c7d78631100bdc42d3f285cb73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_fa28f3c7d78631100bdc42d3f285cb73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 20:08:11</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

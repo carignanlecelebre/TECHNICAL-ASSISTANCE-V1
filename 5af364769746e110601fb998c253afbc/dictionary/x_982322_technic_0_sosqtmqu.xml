@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c5f3f80d9743f510601fb998c253affd" label="sosqtmqu" max_length="40" name="x_982322_technic_0_sosqtmqu" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="C_MARQUE_ID" max_length="40" name="c_marque_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="c_marque_id" dependent_on_field="c_marque_id" display="true" label="DESCRIPTION" max_length="40" name="description" type="string" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element label="N_FLAG_PIECE_SENSIBLE" max_length="40" name="n_flag_piece_sensible" type="integer"/>
+    </element>
+</database>

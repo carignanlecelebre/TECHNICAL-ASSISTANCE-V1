@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config/>
+        <source display_value="Technical Assistance Version No Code - x_982322_te">2852499597487110601fb998c253afc4</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 10:18:42</sys_created_on>
+        <sys_id>ac52499597487110601fb998c253affc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_ac52499597487110601fb998c253affc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 10:18:42</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

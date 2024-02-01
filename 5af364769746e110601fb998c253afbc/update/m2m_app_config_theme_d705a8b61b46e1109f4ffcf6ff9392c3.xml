@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">df05a8b64c46e1104ff4eec7851e9bc2</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-10 13:56:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d705a8b61b46e1109f4ffcf6ff9392c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>m2m_app_config_theme_d705a8b61b46e1109f4ffcf6ff9392c3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-10 13:56:07</sys_updated_on>
+        <theme display_value="Light Theme">5305a8b6c446e1103adde5f2f3a134c3</theme>
+        <ux_app_configuration display_value="Technical Assistance Version No Code Config">8f05a8b69746e110601fb998c253af94</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

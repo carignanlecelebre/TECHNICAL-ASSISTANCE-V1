@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Additional Details">00db0c9e7a98b11025f3ed349f586285</macroponent>
+        <macroponent_config>{&#13;
+    "sysId" : {&#13;
+    "type" : "CONTEXT_BINDING",&#13;
+    "binding" : {&#13;
+      "address" : [ "sysId" ],&#13;
+      "category" : "props"&#13;
+    }&#13;
+  },&#13;
+  "label" : {&#13;
+    "type" : "TRANSLATION_LITERAL",&#13;
+    "value" : {&#13;
+      "code" : null,&#13;
+      "message" : "",&#13;
+      "comment" : ""&#13;
+    }&#13;
+  },&#13;
+  "bare" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : true&#13;
+  },&#13;
+  "scrollable" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : "none"&#13;
+  },&#13;
+  "headerLevel" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : "1"&#13;
+  },&#13;
+  "headingOnlyVisibleToScreenReaders" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : false&#13;
+  },&#13;
+  "interceptNotifications" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : false&#13;
+  },&#13;
+  "propagateNotifications" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : false&#13;
+  }&#13;
+}</macroponent_config>
+        <name>Additional Details Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">48db0c9e0298b1103768f23927c34491</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Additional Details">08db0c9e8b98b1105293a8d39fc35a89</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-29 19:10:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c8db0c9ea798b1109569c4db3374b768</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Details Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_screen_c8db0c9ea798b1109569c4db3374b768</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-29 19:10:12</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8db0c9ea798b1109569c4db3374b768"/>
+</record_update>

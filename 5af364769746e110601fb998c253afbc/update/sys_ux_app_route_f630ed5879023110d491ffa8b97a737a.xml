@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Technical Assistance Version No Code App Config">ba30ed580a0231107a26f38404ebd587</app_config>
+        <description/>
+        <extension_point/>
+        <fields>globalSearchViewConfigId</fields>
+        <icon/>
+        <name>Search</name>
+        <optional_parameters>searchTerm</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>search</route_type>
+        <screen_type display_value="Search">fe30ed58960231106f6b606ea4a50d7b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 20:01:03</sys_created_on>
+        <sys_id>f630ed5879023110d491ffa8b97a737a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_app_route_f630ed5879023110d491ffa8b97a737a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 20:01:03</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=f630ed5879023110d491ffa8b97a737a"/>
+</record_update>

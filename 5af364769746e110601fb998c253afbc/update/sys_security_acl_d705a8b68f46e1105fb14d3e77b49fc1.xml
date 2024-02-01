@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>ACL for Get approver sysId data broker</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>5b05a8b68246e110343f42c0689fa1c1</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-10 13:56:08</sys_created_on>
+        <sys_id>d705a8b68f46e1105fb14d3e77b49fc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5b05a8b68246e110343f42c0689fa1c1</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_security_acl_d705a8b68f46e1105fb14d3e77b49fc1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-10 13:56:08</sys_updated_on>
+        <type display_value="ux_data_broker">6d9c40e9531210101cb3ddeeff7b12f6</type>
+    </sys_security_acl>
+</record_update>

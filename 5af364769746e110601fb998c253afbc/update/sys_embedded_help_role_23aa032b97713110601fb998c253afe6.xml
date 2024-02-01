@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_982322_technic_0.admin" name="x_982322_technic_0.admin">d3aa032b97713110601fb998c253afe4</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 19:50:39</sys_created_on>
+        <sys_id>23aa032b97713110601fb998c253afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d3aa032b97713110601fb998c253afe4</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_23aa032b97713110601fb998c253afe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 19:50:39</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

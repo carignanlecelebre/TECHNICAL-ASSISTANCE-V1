@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>oauth2</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="Basic">b9d084c3972b2110601fb998c253afde</basic_auth_profile>
+        <basic_auth_user/>
+        <description>vehicles</description>
+        <name>Correvette</name>
+        <oauth2_profile display_value="Auth0 default_profile">a836266453001300696c4956a11c0861</oauth2_profile>
+        <protocol_name/>
+        <rest_endpoint>https://myiphosted/v1/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 17:41:11</sys_created_on>
+        <sys_id>8d404f2997232110601fb998c253af19</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Correvette</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_rest_message_8d404f2997232110601fb998c253af19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 19:42:32</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

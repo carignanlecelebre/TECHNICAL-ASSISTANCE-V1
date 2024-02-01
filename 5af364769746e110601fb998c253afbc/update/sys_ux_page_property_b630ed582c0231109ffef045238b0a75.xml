@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Technical Assistance Version No Code">7230ed58b202311026f8c2f834d23a87</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 20:01:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b630ed582c0231109ffef045238b0a75</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_page_property_b630ed582c0231109ffef045238b0a75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 20:01:07</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_982322_technic_0.7230ed58b202311026f8c2f834d23a87.root.listConfigId</unique_name>
+        <value>c840219897023110601fb998c253afe4</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b630ed582c0231109ffef045238b0a75"/>
+</record_update>

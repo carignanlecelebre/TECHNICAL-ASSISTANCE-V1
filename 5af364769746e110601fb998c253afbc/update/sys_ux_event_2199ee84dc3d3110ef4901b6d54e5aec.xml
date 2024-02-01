@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_a599ee844c3d3110f30c9ce06af851ec</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Page Add Notifications Relay (Preferences Default)</label>
+        <props>[{"name":"items","fieldType":"json","interfaceApiName":null,"label":"Items"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:27:23</sys_created_on>
+        <sys_id>2199ee84dc3d3110ef4901b6d54e5aec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Page Add Notifications Relay (Preferences Default)</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_event_2199ee84dc3d3110ef4901b6d54e5aec</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:27:23</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=2199ee84dc3d3110ef4901b6d54e5aec"/>
+</record_update>

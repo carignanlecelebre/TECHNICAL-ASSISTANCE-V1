@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Approve">ed9922c4df3d311070bddf1ee5dfce14</action_payload_definition>
+        <label>Approve Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:27:23</sys_created_on>
+        <sys_id>6d9922c4933d3110732c2783f3db5413</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve Evam</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_6d9922c4933d3110732c2783f3db5413</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:27:23</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

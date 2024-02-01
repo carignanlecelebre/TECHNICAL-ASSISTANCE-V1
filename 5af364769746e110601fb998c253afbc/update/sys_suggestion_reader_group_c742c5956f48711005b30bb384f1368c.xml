@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="Technical Assistance Version No Code AI Search Con">4b42c5957848711045c3cc7a66eac88a</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent searches</section_header>
+        <suggestion_type>Recent Search Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 10:18:36</sys_created_on>
+        <sys_id>c742c5956f48711005b30bb384f1368c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recent Search Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_c742c5956f48711005b30bb384f1368c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 10:18:36</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

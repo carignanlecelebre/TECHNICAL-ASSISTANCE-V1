@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Technical Assistance Version No Code Config">8f05a8b69746e110601fb998c253af94</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Attachment">1705a8b6c946e110f800f68319013ab3</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.sysId",
+  "table" : "@context.props.table",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Attachment Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">9f05a8b6a246e110ac63a8d0ec0694bc</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Attachments">d305a8b6f746e110f76c0567d41e34bd</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-10 13:56:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9705a8b67846e110d38fbf1c4e35e9b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_screen_9705a8b67846e110d38fbf1c4e35e9b1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-10 13:56:08</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=9705a8b67846e110d38fbf1c4e35e9b1"/>
+</record_update>

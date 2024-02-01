@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_982322_technic_0_sosqtarq" section_id="f6e1892f974eb110601fb998c253afbb" sys_domain="global" table="x_982322_technic_0_sosqtarq" version="3" view="arq">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:09:50</sys_created_on>
+            <sys_id>1922416f974eb110601fb998c253afb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_982322_technic_0_sosqtarq" display_value="x_982322_technic_0_sosqtarq" name="x_982322_technic_0_sosqtarq" sys_domain="global" view="b6e1892f974eb110601fb998c253afb6">f6e1892f974eb110601fb998c253afbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:09:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>n_branch_pointer</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:09:51</sys_created_on>
+            <sys_id>5122416f974eb110601fb998c253afba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_982322_technic_0_sosqtarq" display_value="x_982322_technic_0_sosqtarq" name="x_982322_technic_0_sosqtarq" sys_domain="global" view="b6e1892f974eb110601fb998c253afb6">f6e1892f974eb110601fb998c253afbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:09:51</sys_created_on>
+            <sys_id>5522416f974eb110601fb998c253afba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_982322_technic_0_sosqtarq" display_value="x_982322_technic_0_sosqtarq" name="x_982322_technic_0_sosqtarq" sys_domain="global" view="b6e1892f974eb110601fb998c253afb6">f6e1892f974eb110601fb998c253afbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:09:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:09:51</sys_created_on>
+            <sys_id>9522816f974eb110601fb998c253af43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_982322_technic_0_sosqtarq" display_value="x_982322_technic_0_sosqtarq" name="x_982322_technic_0_sosqtarq" sys_domain="global" view="b6e1892f974eb110601fb998c253afb6">f6e1892f974eb110601fb998c253afbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:09:51</sys_created_on>
+            <sys_id>9922816f974eb110601fb998c253af43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_982322_technic_0_sosqtarq" display_value="x_982322_technic_0_sosqtarq" name="x_982322_technic_0_sosqtarq" sys_domain="global" view="b6e1892f974eb110601fb998c253afb6">f6e1892f974eb110601fb998c253afbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_982322_technic_0_sosqtarq</caption>
+            <header>false</header>
+            <name>x_982322_technic_0_sosqtarq</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:08:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6e1892f974eb110601fb998c253afbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_0_sosqtarq</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+            <sys_update_name>sys_ui_section_f6e1892f974eb110601fb998c253afbb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:08:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="arq" name="arq">b6e1892f974eb110601fb998c253afb6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

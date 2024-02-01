@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CONTENT_UPDATED_RELAY_a7c7e2c02e3d3110f450bda10abd7574</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Content Updated Relay</label>
+        <props>[{"name":"params","label":"Optionals Parameters","fieldType":"json","valueType":"string"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:19:37</sys_created_on>
+        <sys_id>e3c7e2c0463d3110c7c301f092eddd53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content Updated Relay</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_event_e3c7e2c0463d3110c7c301f092eddd53</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:19:37</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=e3c7e2c0463d3110c7c301f092eddd53"/>
+</record_update>
