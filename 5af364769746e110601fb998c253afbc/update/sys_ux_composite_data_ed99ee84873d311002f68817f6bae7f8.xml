@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data">
+    <sys_ux_composite_data action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_filter_label/>
+        <name>Custom Portal Landing - Popular Articles</name>
+        <query_parameters/>
+        <required_roles/>
+        <sort_order/>
+        <sys_class_name>sys_ux_composite_data</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:27:23</sys_created_on>
+        <sys_id>ed99ee84873d311002f68817f6bae7f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal Landing - Popular Articles</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_composite_data_ed99ee84873d311002f68817f6bae7f8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:27:23</sys_updated_on>
+    </sys_ux_composite_data>
+</record_update>

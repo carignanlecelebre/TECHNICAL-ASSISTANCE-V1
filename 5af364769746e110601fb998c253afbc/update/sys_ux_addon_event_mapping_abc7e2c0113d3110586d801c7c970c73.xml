@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Reject Mapping</name>
+        <parent_macroponent display_value="Landing Page">a3c7e2c0a03d31105e2fdf1a17ac5975</parent_macroponent>
+        <source_component/>
+        <source_da display_value="reject">fbc7e2c0d83d3110d1954ca816915379</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:19:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>abc7e2c0113d3110586d801c7c970c73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_abc7e2c0113d3110586d801c7c970c73</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:19:38</sys_updated_on>
+        <target_event display_value="My tasks reject">ebc7e2c06f3d3110aaba136483738872</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

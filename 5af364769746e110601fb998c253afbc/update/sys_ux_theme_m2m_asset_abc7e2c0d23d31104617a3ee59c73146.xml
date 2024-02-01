@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">6fc7e2c04f3d31101edd990d5b745b46</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:19:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>abc7e2c0d23d31104617a3ee59c73146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_abc7e2c0d23d31104617a3ee59c73146</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:19:37</sys_updated_on>
+        <theme display_value="Light Theme">7bc7e2c0603d3110ae633841f5d5127b</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <collapse_attachment>true</collapse_attachment>
+        <enable_exact_match>true</enable_exact_match>
+        <evam_definition display_value="">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <name>Technical Assistance Version No Code AI Search Con</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="technical-assistance-version-no-code Search Profile">4b42c5957248711022c665db395bd793</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <show_tab_counts>true</show_tab_counts>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 10:18:37</sys_created_on>
+        <sys_id>4b42c5957848711045c3cc7a66eac88a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Assistance Version No Code AI Search Con</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_search_context_config_4b42c5957848711045c3cc7a66eac88a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 10:18:37</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=4b42c5957848711045c3cc7a66eac88a"/>
+</record_update>

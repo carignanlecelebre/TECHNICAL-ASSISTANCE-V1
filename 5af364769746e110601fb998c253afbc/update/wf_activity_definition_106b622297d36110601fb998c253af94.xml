@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="wf_activity_definition">
+    <wf_activity_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <action>false</action>
+        <attributes/>
+        <base_provider/>
+        <category/>
+        <default_height/>
+        <default_width/>
+        <description/>
+        <image>images/outputmsg_warning.gif</image>
+        <js_class_name>new_did</js_class_name>
+        <name>new did</name>
+        <script><![CDATA[// Workflow activity definition handler class
+//
+// Implement activity definition handling in the onExecute method
+//
+// Implement any event handlers for the activity definition as a method named 'on[event_name]'
+//     For example, to handle the 'cancel' event, implement an 'onCancel' method
+//
+
+var new_didActivityHandler = Class.create();
+new_didActivityHandler.prototype = Object.extendsObject(WFActivityHandler, {
+
+   initialize: function() {
+      WFActivityHandler.prototype.initialize.call(this);
+   },
+
+   onExecute: function() {
+      // implement activity definition code here
+
+   },
+
+   type: 'new_didActivityHandler'
+});]]></script>
+        <style/>
+        <sys_class_name>wf_activity_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-11 08:23:58</sys_created_on>
+        <sys_id>106b622297d36110601fb998c253af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new did</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>wf_activity_definition_106b622297d36110601fb998c253af94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-11 08:23:58</sys_updated_on>
+        <table>global</table>
+        <version_container_id/>
+    </wf_activity_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=106b622297d36110601fb998c253af94"/>
+</record_update>

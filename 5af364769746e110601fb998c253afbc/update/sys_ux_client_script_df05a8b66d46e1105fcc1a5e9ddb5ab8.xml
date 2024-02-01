@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Article page">1305a8b65b46e110194f82259998e4bb</macroponent>
+        <name>Set Current Comment Id</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports}) {
+	api.setState('currentCommentId', event.payload.commentId);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-10 13:56:07</sys_created_on>
+        <sys_id>df05a8b66d46e1105fcc1a5e9ddb5ab8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Current Comment Id</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_client_script_df05a8b66d46e1105fcc1a5e9ddb5ab8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-10 13:56:07</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

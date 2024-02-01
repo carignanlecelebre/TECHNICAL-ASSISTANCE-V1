@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Technical Assistance Version No Code Config">8f05a8b69746e110601fb998c253af94</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[ {
+  "eventMappingId" : "ckfhhjjlptggaaaaddoddhhhaccckywbbhhz",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_982322_technic_0.MODAL_SELECTED_RELAY_db05a8b6d346e110b34ac02f1421e3b3",
+  "sourceEventDefinition" : {
+    "apiName" : "x_982322_technic_0.MODAL_SELECTED_RELAY_db05a8b6d346e110b34ac02f1421e3b3",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.MODAL_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "modalId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "modalId" ]
+            }
+          },
+          "showModal" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "showModal" ]
+            }
+          },
+          "displayOptions" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "displayOptions" ]
+            }
+          },
+          "bare" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "bare" ]
+            }
+          }
+        }
+      },
+      "sysId" : "882eed4091382d3a41f1bb3f382ae089"
+    },
+    "operation" : null,
+    "targetId" : "ckfhhjjlptffaaaaddnddhhhaiffabjjadd",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Security &amp; sign-in">db05a8b6d346e110b34ac02f1421e3b3</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "2",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Security and login Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">5705a8b6e346e11028f2bbb6c7ff0bbd</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Security and login">5305a8b68e46e110e47bb11ddda410bc</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-10 13:56:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f05a8b6f546e1106ca58a76d0619db0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security and login Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_screen_9f05a8b6f546e1106ca58a76d0619db0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-10 13:56:09</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=9f05a8b6f546e1106ca58a76d0619db0"/>
+</record_update>

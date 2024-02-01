@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Technical Assistance Version No Code - Workspace Search">3e28f3c7a786311076dc047d0385b66f</search_context_config>
+        <source display_value="Technical Assistance Version No Code - x_982322_te">483877c797863110601fb998c253af73</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 20:08:14</sys_created_on>
+        <sys_id>843877c797863110601fb998c253af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_843877c797863110601fb998c253af76</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 20:08:14</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

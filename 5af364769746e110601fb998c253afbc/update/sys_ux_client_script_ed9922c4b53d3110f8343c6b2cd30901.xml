@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Additional Details">659922c4153d311061b4b743cf7f1602</macroponent>
+        <name>Fetch variables if catalog</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : "",
+  "message" : "No additional details at this time.",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ * @param {ApiHelpers} params.helpers
+ */
+async function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    var data = api.data.look_up_records_1.results;
+    var finalOutput = [];
+    data.forEach(function(element) {
+        if (element.sc_item_option._reference.value.displayValue) {
+            finalOutput.push({
+                'label': element.sc_item_option._reference.item_option_new.displayValue,
+                'value': {
+                    'type': 'string',
+                    'value': element.sc_item_option._reference.value.displayValue
+                }
+            });
+        }
+    });
+    if (finalOutput != "") {
+        api.setState('labelValue', finalOutput);
+    } else {
+        var emptylabel = await helpers.translate("No additional details at this time.");
+        var emptyvalue = "";
+        finalOutput.push({
+            'label': emptylabel,
+            'value': {
+                'type': 'string',
+                'value': emptyvalue
+            }
+        });
+        api.setState('labelValue', finalOutput);
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:27:23</sys_created_on>
+        <sys_id>ed9922c4b53d3110f8343c6b2cd30901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fetch variables if catalog</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_client_script_ed9922c4b53d3110f8343c6b2cd30901</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:27:23</sys_updated_on>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

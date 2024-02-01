@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="sosqtdsr">5840619897023110601fb998c253af14</ais_search_source>
+        <label>sosqtdsr</label>
+        <name>sosqtdsr</name>
+        <order>100</order>
+        <search_context_config display_value="Technical Assistance Version No Code AI Search Con">4b42c5957848711045c3cc7a66eac88a</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 20:01:08</sys_created_on>
+        <sys_id>5040619897023110601fb998c253af1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sosqtdsr</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_search_filter_5040619897023110601fb998c253af1c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 20:01:08</sys_updated_on>
+    </sys_search_filter>
+</record_update>

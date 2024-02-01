@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">fbc7e2c0d83d3110d1954ca816915379</declarative_action_assignment>
+        <predicate display_value="My Tasks">e7c7e2c0ea3d3110daaac9d5bae68f55</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:19:38</sys_created_on>
+        <sys_id>27c7e2c03e3d311032fa5783dc38004c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_27c7e2c03e3d311032fa5783dc38004c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:19:38</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

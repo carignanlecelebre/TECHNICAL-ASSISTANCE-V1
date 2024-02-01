@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My Requests - Requested item predicate">abc7e2c0e93d31104ba676606bcc2e55</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-05 20:19:36</sys_created_on>
+        <sys_id>ebc7e2c0ef3d3110629a98ce03f53c4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_ebc7e2c0ef3d3110629a98ce03f53c4b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-05 20:19:36</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

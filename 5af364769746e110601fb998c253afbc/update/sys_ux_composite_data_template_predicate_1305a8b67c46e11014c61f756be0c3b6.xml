@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sc_req_item">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,cat_item.picture,short_description,price,recurring_price,recurring_frequency,state,number,cat_item.name</field_list>
+        <name>My Requests - Requested item predicate</name>
+        <order/>
+        <predicate_bundle display_value="My requests - reqested item bundle">d305a8b64b46e1101556735a650225b7</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-10 13:56:09</sys_created_on>
+        <sys_id>1305a8b67c46e11014c61f756be0c3b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Requests - Requested item predicate</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_1305a8b67c46e11014c61f756be0c3b6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-10 13:56:09</sys_updated_on>
+        <table>sc_req_item</table>
+        <ux_template display_value="Custom Portal Landing - My Requests template">1705a8b67646e110f29473ecae6362b6</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

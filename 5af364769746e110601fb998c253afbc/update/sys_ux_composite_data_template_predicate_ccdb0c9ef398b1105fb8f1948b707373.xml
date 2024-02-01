@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,author.avatar,author.name,description,sys_view_count,rating</field_list>
+        <name>Popular articles predicate</name>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">04db0c9e9c98b110e52f3dad4603c878</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-29 19:10:12</sys_created_on>
+        <sys_id>ccdb0c9ef398b1105fb8f1948b707373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles predicate</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_ccdb0c9ef398b1105fb8f1948b707373</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-29 19:10:12</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Popular articles template">88db0c9ef198b110eeed2135d715af75</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Catalog Item Page">9705a8b69046e110185432b848b60bbe</macroponent>
+        <name>Order success redirection</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    const {
+        payload: params
+    } = event;
+    const route = "order_success";
+    api.emit('NAV_ITEM_SELECTED', {
+        route,
+        params
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-10 13:56:07</sys_created_on>
+        <sys_id>d705a8b6ed46e110c416d8f392364cb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order success redirection</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_client_script_d705a8b6ed46e110c416d8f392364cb9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-10 13:56:07</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

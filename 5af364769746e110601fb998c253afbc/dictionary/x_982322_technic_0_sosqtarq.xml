@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="304e8f3597423110601fb998c253af89" label="SOSQTARQ" max_length="40" name="x_982322_technic_0_sosqtarq" type="collection">
+        <element label="C_DESCRIPTION" max_length="40" name="c_description" type="string"/>
+        <element label="N_BRANCH_POINTER" max_length="40" name="n_branch_pointer" type="integer"/>
+    </element>
+</database>
